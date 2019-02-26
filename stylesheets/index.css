@@ -8,3 +8,10 @@ These are the styles for the whole document
 .main-title {
 background: red; /*comment within ruleset*/
 }
+
+.fancy-font , .navbar{
+    font-family: 'Oswald', sans-serif;
+    /* named color */
+    color:cornflowerblue;
+    color: rgb(24, 11, 169);
+}
